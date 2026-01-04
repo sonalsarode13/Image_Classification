@@ -8,28 +8,28 @@ The project demonstrates the practical application of deep learning and computer
 
 🛠️ Technical Stack
 
-Programming Language: Python
+1.Programming Language: Python
 
-Deep Learning Framework: TensorFlow / Keras
+2.Deep Learning Framework: TensorFlow / Keras
 
-Algorithm: Convolutional Neural Network (CNN)
+3.Algorithm: Convolutional Neural Network (CNN)
 
-Dataset: CIFAR-10
+4.Dataset: CIFAR-10
 
-Image Processing: OpenCV
+5.Image Processing: OpenCV
 
-Visualization: Matplotlib
+6.Visualization: Matplotlib
 
-Model Format: .keras (Saved Keras model)
+7.Model Format: .keras (Saved Keras model)
 
 📊 Step-by-Step Project Workflow
 1️⃣ Dataset Loading
 
-Loaded the CIFAR-10 dataset containing 60,000 RGB images.
+a.Loaded the CIFAR-10 dataset containing 60,000 RGB images.
 
-Each image has a fixed size of 32 × 32 × 3.
+b.Each image has a fixed size of 32 × 32 × 3.
 
-The dataset contains 10 object classes.
+c.The dataset contains 10 object classes.
 
 Purpose:
 To provide labeled training data so the model can learn visual patterns for each class.
